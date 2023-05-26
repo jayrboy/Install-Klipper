@@ -10,6 +10,5 @@
   - cd ~/klipper/ make menuconfig
   - make
   - ls /dev/serial/by-id/*
-
-
-
+- FLASH DEVICE to uploading SDcard of printer
+  - klipper.bin
